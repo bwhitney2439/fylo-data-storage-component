@@ -39,7 +39,6 @@ p {
 
 .row {
   display: flex;
-  width: 920px;
 }
 
 .tooltip {
@@ -94,11 +93,9 @@ p {
   margin-top: auto;
   position: relative;
   padding: 40px;
-  max-width: 540px;
-  width: 100%;
+  width: 540px;
   height: 154px;
   border-radius: 10px;
-  margin-right: 30px;
 }
 
 .min-max {
