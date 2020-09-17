@@ -8,7 +8,9 @@
 
 body {
   font-family: "Raleway", "sans-serif";
-  background: #0c122c url("./images/bg-desktop.png") no-repeat bottom;
+  background: #0c122c
+    url("https://uploads.codesandbox.io/uploads/user/e201a388-5489-446d-b445-88b06b354e6b/HBGu-bg-desktop.png")
+    no-repeat bottom;
   background-size: 100% 50%;
   color: white;
   min-height: 100vh;
@@ -172,7 +174,9 @@ img {
 
 @media only screen and (max-width: 600px) {
   body {
-    background: #0c122c url("./images/bg-mobile.png") no-repeat;
+    background: #0c122c
+      url("https://uploads.codesandbox.io/uploads/user/e201a388-5489-446d-b445-88b06b354e6b/K8CK-bg-mobile.png")
+      no-repeat;
     background-size: 100% 100%;
   }
 
